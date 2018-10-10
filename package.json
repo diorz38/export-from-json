@@ -37,7 +37,7 @@
     "example"
   ],
   "devDependencies": {
-    "@types/jest": "^23.3.1",
+    "@types/jest": "^23.3.6",
     "husky": "^1.0.0",
     "jest": "^23.5.0",
     "rollup": "^0.66.0",
